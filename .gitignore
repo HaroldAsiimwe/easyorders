@@ -1,0 +1,16 @@
+*.py[co]
+.project
+.pydevproject
+*~
+*.db
+*.orig
+*.DS_Store
+.coverage
+.vagrant
+*/settings/local.py
+*-env/
+rapidsms.log
+localsettings.py
+src
+.cache
+celerybeat.pid
